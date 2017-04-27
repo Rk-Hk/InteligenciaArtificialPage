@@ -55,6 +55,10 @@ body{
   height: 300px;
 }
 
+.card-text{
+	text-align: justify;
+}
+
 .card-title{
     font-size: 20px;
     width: 94%;
@@ -388,4 +392,27 @@ body{
 
 .ultimo-card{
 	padding: 20px 0;
+}
+
+/**** Contador *******************/
+
+.contador{
+	position: absolute;
+	right: 8px;
+	top: 14px;
+}
+
+/*** Proyectos *********/
+
+.img_lisp{
+	background: url(../img/lispWorks.PNG) no-repeat;
+	background-size: cover;
+}
+
+.img_primerproyecto{
+	background: url(../img/arduino_robot_shield.jpg) no-repeat;
+}
+
+.img_projectfinal{
+	background: url(../img/wallyfinal.jpg);
 }
