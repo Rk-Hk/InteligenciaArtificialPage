@@ -416,3 +416,14 @@ body{
 .img_projectfinal{
 	background: url(../img/wallyfinal.jpg);
 }
+
+/******* Archivos ************************/
+
+.pdf-docum{
+	color: crimson;
+}
+
+.pdf-docum:hover{
+	color: firebrick;
+}
+
