@@ -427,6 +427,15 @@ body{
 	color: firebrick;
 }
 
+.plus-docum{
+	color: #459ba8;
+}
+
+.plus-docum:hover{
+	color: #0080bb;
+}
+
+
 
 .ojito-contador{
 	color: white;
