@@ -409,6 +409,13 @@ body{
 	background-size: cover;
 }
 
+.img_prolog{
+	background: url(../img/prologswi.jpg) no-repeat;
+	background-size: cover;
+
+
+}
+
 .img_primerproyecto{
 	background: url(../img/arduino_robot_shield.jpg) no-repeat;
 }
