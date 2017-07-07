@@ -439,6 +439,14 @@ body{
 	color: firebrick;
 }
 
+.pl-docum{
+	color: darkcyan;
+}
+
+.pl-docum:hover{
+	color: darkseagreen;
+}
+
 .plus-docum{
 	color: #459ba8;
 }
