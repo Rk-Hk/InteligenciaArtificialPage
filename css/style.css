@@ -416,6 +416,11 @@ body{
 
 }
 
+#id_grupo{
+	text-transform: capitalize;
+
+}
+
 .img_primerproyecto{
 	background: url(../img/arduino_robot_shield.jpg) no-repeat;
 }
