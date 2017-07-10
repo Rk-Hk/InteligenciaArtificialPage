@@ -374,7 +374,9 @@ body{
 
 .img_primerproyecto{
 	background: url(../img/tanquesarduino.jpg) no-repeat;
+	background-size: 100%;
 }
+
 
 .img_projectfinal{
 	background: url(../img/wallyfinal.jpg);
