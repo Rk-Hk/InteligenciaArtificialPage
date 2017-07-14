@@ -331,6 +331,15 @@ body{
 	padding-left: 10px;
 	color: dodgerblue;
 }
+.center blockquote{
+	font-size: 12px;
+	padding-right: 30px;
+	text-align: right;
+}
+
+.center .img_prof{
+	height: 280px;
+}
 
 .footer-page a:hover{
 	color: darkturquoise;
